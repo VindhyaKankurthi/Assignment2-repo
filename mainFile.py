@@ -1,4 +1,5 @@
 import myModule
+import sourceFile
 import configparser
 parser = configparser.ConfigParser()
 
